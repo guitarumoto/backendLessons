@@ -13,5 +13,9 @@
 - React
 - Node
 - MySQL
-- Ferramentas: Trello, GitHub Pages.
+- Ferramentas: Trello, GitHub, Google Drive.
 
+### Colaboradores e divisão de tarefas
+- Luiz Gabriel dos Santos: Frontend;
+- Guilherme Yuiti Tarumoto: Backend;
+- Wilson de Oliveira Santos: Código fonte e Aulas.
